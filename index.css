@@ -1,0 +1,50 @@
+.container {
+    height: 1080px;
+    width: 1930px;
+
+}
+
+
+
+/*gonna work on the header here*/
+
+.header {
+    width: 1820px;
+    height: 350px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    display: flex;
+}
+
+.logo {
+    height: 350px;
+    width: 480px;
+    display: flex;
+    font-size: 50px;
+    font-family: 'Ms Madi', cursive;
+    justify-content: center;
+    align-items: baseline;
+}
+.img {
+    width: 100px;
+    height: 50px;
+    border: 5px solid #7f5539;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+
+.img p {
+    width: 90;
+    height: 40px;
+}
+.desc {
+    height: 350px;
+    width: 960;
+    font-size: 100px;
+    font-family: 'Square Peg', cursive;
+    align-items: flex-start;
+    justify-content: center;
+}
